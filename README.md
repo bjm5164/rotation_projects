@@ -13,4 +13,8 @@ notebooks for working with EM data
  4. MN_statebuilder_example.ipynb
 - An outline of how to build custom neuroglancer states using the statebuilder.
  5. statebuilder_examples.ipynb
-- Adapted from the Allen Institute. More examples for data driven state building. 
+- Adapted from the Allen Institute. More examples for data driven state building.
+ 6. skeletonization.ipynb 
+- Methods for skeletonization. Uses skeletor and meshparty.
+ 7. synaptic_distribution_analysis.ipynb
+- Methods for doing analyses on synapses using MeshWork
